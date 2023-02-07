@@ -1,6 +1,6 @@
 # Diablo-Bot
 
-This Python Discord Bot was made using "discord.py". The bot is designed to be able to run 24 hours a day, with close to no maintenance needed. 
+This Python Discord Bot was made using "discord.py". The bot is designed to be able to run 24 hours a day, with close to no maintenance needed. It has a strong Database integration, as a lot of Data has to be saved (SqLite used as Database, as the project started on a small Scale, replaced by PostgresSQL in longterm was planned).
 
 The main intent of the bot is to guarantee fair trades in the game "Diablo 4 Resurrected" between users by using a homemade reputation system. 
 This project was a custom bot request for a fairly active Discord Server (~10k Users). This is the second major Discord Bot I wrote, I used to contribute to

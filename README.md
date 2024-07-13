@@ -9,4 +9,4 @@ is inspired by the old Architecture of PyBot, as it has been allready field-test
 
 The bot was developped with a constant feedback loop of the Staff of the Discord Server, with several Testing Rounds, to find any major bugs. The bot focusses additionaly a lot on modularity and reusability of code (Usage of discord "cogs", and common libraries).
 
-The approximate time spent developping the bot until its final version was about 250 hours, including Testing Sessions, Design Meetings, Bug Fixing and Coding Timne.
+The approximate time spent developping the bot until its final version was about 150 hours, including Testing Sessions, Design Meetings, Bug Fixing and Coding Timne.
